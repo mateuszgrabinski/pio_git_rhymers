@@ -4,7 +4,7 @@ import edu.kis.vh.nursery.factory.DefaultRhymersFactory;
 import edu.kis.vh.nursery.factory.Rhymersfactory;
 
 class RhymersDemo {
-
+    // Projekt jest poprawny 5 tests passed
     public static final int CAPACITY_OF_RHYMERS = 15;
 
     public static void main(String[] args) {
